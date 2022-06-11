@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Gabriel</h1>
+<h1>Hi 👋, I'm MissingPizza!</h1>
 <h3>I am Currently studying for a Diploma in IT and am excited to begin contributing to open source projects.</h3>
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, python, C++, SQL**
