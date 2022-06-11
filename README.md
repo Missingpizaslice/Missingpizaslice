@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">I am Currently studying for a Diploma in IT and am excited to begin contributing to projects</h3>
+<h1>Hi 👋, I'm Gabriel</h1>
+<h3>I am Currently studying for a Diploma in IT and am excited to begin contributing to open source projects.</h3>
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, python, C++, SQL**
 
-- ⚡ Fun fact **I have an interest in Custom Keyboards**
+- ⚡ Fun fact **I have an interest in Custom Keyboards and have a growing interest in headphones and IEM's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
